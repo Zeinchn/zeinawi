@@ -108,7 +108,7 @@
 ### Задание 1  
 **Скриншот результата:**  
 ![self7_task1](screenshots/self7_task1.png)  
-![self7_task1](screenshots/astronomy.png)
+![self7_task1](screenshots/self7_task12.png)
 
 **Вывод:** Реализовал программу, заменяющую в тексте все вхождения определённого слова и сохраняющую обновлённый файл под новым именем.  
 
@@ -117,6 +117,10 @@
 ### Задание 2  
 **Скриншот результата:**  
 ![self7_task2](screenshots/self7_task2.png)  
+![self7_task2](screenshots/self7_task21.png)  
+![self7_task2](screenshots/self7_task22.png)  
+![self7_task2](screenshots/self7_task23.png)
+![self7_task2](screenshots/self7_task24.png)    
 
 **Вывод:** Подсчитал количество строк, слов и символов в файле с использованием методов `read()` и `split()`.  
 
@@ -125,6 +129,7 @@
 ### Задание 3  
 **Скриншот результата:**  
 ![self7_task3](screenshots/self7_task3.png)  
+![self7_task3](screenshots/self7_task31.png)  
 
 **Вывод:** Объединил содержимое двух файлов, сохранив их порядок в новом документе.  
 
@@ -133,6 +138,7 @@
 ### Задание 4  
 **Скриншот результата:**  
 ![self7_task4](screenshots/self7_task4.png)  
+![self7_task4](screenshots/self7_task41.png)  
 
 **Вывод:** Удалил пустые строки из файла и перезаписал его очищенный вариант.  
 
@@ -141,6 +147,8 @@
 ### Задание 5  
 **Скриншот результата:**  
 ![self7_task5](screenshots/self7_task5.png)  
+![self7_task5](screenshots/self7_task51.png) 
+![self7_task5](screenshots/self7_task52.png) 
 
 **Вывод:** Создал CSV-файл, записал в него данные таблицы и реализовал чтение строк в удобном формате.  
 
