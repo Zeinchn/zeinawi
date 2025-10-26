@@ -149,6 +149,7 @@
 ![self7_task5](screenshots/self7_task5.png)  
 ![self7_task5](screenshots/self7_task51.png) 
 ![self7_task5](screenshots/self7_task52.png) 
+![self7_task5](screenshots/self7_task53.png) 
 
 **Вывод:** Создал CSV-файл, записал в него данные таблицы и реализовал чтение строк в удобном формате.  
 
